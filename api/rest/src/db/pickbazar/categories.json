@@ -1,0 +1,452 @@
+[
+  {
+    "id": 180,
+    "name": "Engine Parts",
+    "slug": "console",
+    "language": "en",
+    "translated_languages": ["en"],
+    "parent": null,
+    "children": [],
+    "products_count": null,
+    "details": null,
+    "image": {
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2107/conversions/Gaming-thumbnail.jpg",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2107/Gaming.png",
+      "id": 2108
+    },
+    "icon": "Console",
+    "type_id": 9,
+    "type": {
+      "id": 9,
+      "name": "Gadget",
+      "language": "en",
+      "translated_languages": ["en"],
+      "slug": "gadget",
+      "banners": [
+        {
+          "id": 78,
+          "title": "Gadget",
+          "type_id": 9,
+          "description": "Add your banner image with title and description from here. Dimension of the banner should be 1920 x 1080 px for full screen banner and 1500 x 450 px for small banner",
+          "image": {
+            "id": 2149,
+            "thumbnail": "https://i.ibb.co/M1B6XCj/Eco-Parts.png",
+            "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2146/Gadget-banners.png"
+          }
+        }
+      ],
+      "promotional_sliders": [],
+      "settings": {
+        "isHome": false,
+        "productCard": "neon",
+        "layoutType": "modern"
+      },
+      "icon": "Gadgets"
+    }
+  },
+  {
+    "id": 181,
+    "name": "Brakes",
+    "slug": "laptop",
+    "language": "en",
+    "translated_languages": ["en"],
+    "parent": null,
+    "children": [],
+    "products_count": null,
+    "details": null,
+    "image": {
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2106/conversions/Laptop-thumbnail.jpg",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2106/Laptop.png",
+      "id": 2107
+    },
+    "icon": "Laptop",
+    "type_id": 9,
+    "type": {
+      "id": 9,
+      "name": "Gadget",
+      "language": "en",
+      "translated_languages": ["en"],
+      "slug": "gadget",
+      "banners": [
+        {
+          "id": 78,
+          "title": "Gadget",
+          "type_id": 9,
+          "description": "Add your banner image with title and description from here. Dimension of the banner should be 1920 x 1080 px for full screen banner and 1500 x 450 px for small banner",
+          "image": {
+            "id": 2149,
+            "thumbnail": "https://i.ibb.co/M1B6XCj/Eco-Parts.png",
+            "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2146/Gadget-banners.png"
+          }
+        }
+      ],
+      "promotional_sliders": [],
+      "settings": {
+        "isHome": false,
+        "productCard": "neon",
+        "layoutType": "modern"
+      },
+      "icon": "Gadgets"
+    }
+  },
+  {
+    "id": 182,
+    "name": "Steering",
+    "slug": "monitor",
+    "language": "en",
+    "translated_languages": ["en"],
+    "parent": null,
+    "children": [],
+    "products_count": null,
+    "details": null,
+    "image": {
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2105/conversions/Monitor-thumbnail.jpg",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2105/Monitor.png",
+      "id": 2106
+    },
+    "icon": "Monitor",
+    "type_id": 9,
+    "type": {
+      "id": 9,
+      "name": "Gadget",
+      "language": "en",
+      "translated_languages": ["en"],
+      "slug": "gadget",
+      "banners": [
+        {
+          "id": 78,
+          "title": "Gadget",
+          "type_id": 9,
+          "description": "Add your banner image with title and description from here. Dimension of the banner should be 1920 x 1080 px for full screen banner and 1500 x 450 px for small banner",
+          "image": {
+            "id": 2149,
+            "thumbnail": "https://i.ibb.co/M1B6XCj/Eco-Parts.png",
+            "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2146/Gadget-banners.png"
+          }
+        }
+      ],
+      "promotional_sliders": [],
+      "settings": {
+        "isHome": false,
+        "productCard": "neon",
+        "layoutType": "modern"
+      },
+      "icon": "Gadgets"
+    }
+  },
+  {
+    "id": 198,
+    "name": "Tires",
+    "slug": "accessories-gfa",
+    "language": "en",
+    "translated_languages": ["en"],
+    "parent": null,
+    "children": [],
+    "products_count": null,
+    "details": null,
+    "image": {
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2150/conversions/Accessories-thumbnail.jpg",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2150/Accessories.png",
+      "id": 2153
+    },
+    "icon": "GadgetAccessories",
+    "type_id": 9,
+    "type": {
+      "id": 9,
+      "name": "Gadget",
+      "language": "en",
+      "translated_languages": ["en"],
+      "slug": "gadget",
+      "banners": [
+        {
+          "id": 78,
+          "title": "Gadget",
+          "type_id": 9,
+          "description": "Add your banner image with title and description from here. Dimension of the banner should be 1920 x 1080 px for full screen banner and 1500 x 450 px for small banner",
+          "image": {
+            "id": 2149,
+            "thumbnail": "https://i.ibb.co/M1B6XCj/Eco-Parts.png",
+            "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2146/Gadget-banners.png"
+          }
+        }
+      ],
+      "promotional_sliders": [],
+      "settings": {
+        "isHome": false,
+        "productCard": "neon",
+        "layoutType": "modern"
+      },
+      "icon": "Gadgets"
+    }
+  },
+  {
+    "id": 199,
+    "name": "Lighting",
+    "slug": "camera",
+    "language": "en",
+    "translated_languages": ["en"],
+    "parent": null,
+    "children": [],
+    "products_count": null,
+    "details": null,
+    "image": {
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2151/conversions/Camera-thumbnail.jpg",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2151/Camera.png",
+      "id": 2154
+    },
+    "icon": "Camera",
+    "type_id": 9,
+    "type": {
+      "id": 9,
+      "name": "Gadget",
+      "language": "en",
+      "translated_languages": ["en"],
+      "slug": "gadget",
+      "banners": [
+        {
+          "id": 78,
+          "title": "Gadget",
+          "type_id": 9,
+          "description": "Add your banner image with title and description from here. Dimension of the banner should be 1920 x 1080 px for full screen banner and 1500 x 450 px for small banner",
+          "image": {
+            "id": 2149,
+            "thumbnail": "https://i.ibb.co/M1B6XCj/Eco-Parts.png",
+            "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2146/Gadget-banners.png"
+          }
+        }
+      ],
+      "promotional_sliders": [],
+      "settings": {
+        "isHome": false,
+        "productCard": "neon",
+        "layoutType": "modern"
+      },
+      "icon": "Gadgets"
+    }
+  },
+  {
+    "id": 200,
+    "name": "Exterior Accessories",
+    "slug": "headphone",
+    "language": "en",
+    "translated_languages": ["en"],
+    "parent": null,
+    "children": [],
+    "products_count": null,
+    "details": null,
+    "image": {
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2152/conversions/Headphone-thumbnail.jpg",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2152/Headphone.png",
+      "id": 2155
+    },
+    "icon": "Headphone",
+    "type_id": 9,
+    "type": {
+      "id": 9,
+      "name": "Gadget",
+      "language": "en",
+      "translated_languages": ["en"],
+      "slug": "gadget",
+      "banners": [
+        {
+          "id": 78,
+          "title": "Gadget",
+          "type_id": 9,
+          "description": "Add your banner image with title and description from here. Dimension of the banner should be 1920 x 1080 px for full screen banner and 1500 x 450 px for small banner",
+          "image": {
+            "id": 2149,
+            "thumbnail": "https://i.ibb.co/M1B6XCj/Eco-Parts.png",
+            "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2146/Gadget-banners.png"
+          }
+        }
+      ],
+      "promotional_sliders": [],
+      "settings": {
+        "isHome": false,
+        "productCard": "neon",
+        "layoutType": "modern"
+      },
+      "icon": "Gadgets"
+    }
+  },
+  {
+    "id": 201,
+    "name": "Battery",
+    "slug": "mobiles",
+    "language": "en",
+    "translated_languages": ["en"],
+    "parent": null,
+    "children": [],
+    "products_count": null,
+    "details": null,
+    "image": {
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2153/conversions/Mobiles-thumbnail.jpg",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2153/Mobiles.png",
+      "id": 2156
+    },
+    "icon": "Mobile",
+    "type_id": 9,
+    "type": {
+      "id": 9,
+      "name": "Gadget",
+      "language": "en",
+      "translated_languages": ["en"],
+      "slug": "gadget",
+      "banners": [
+        {
+          "id": 78,
+          "title": "Gadget",
+          "type_id": 9,
+          "description": "Add your banner image with title and description from here. Dimension of the banner should be 1920 x 1080 px for full screen banner and 1500 x 450 px for small banner",
+          "image": {
+            "id": 2149,
+            "thumbnail": "https://i.ibb.co/M1B6XCj/Eco-Parts.png",
+            "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2146/Gadget-banners.png"
+          }
+        }
+      ],
+      "promotional_sliders": [],
+      "settings": {
+        "isHome": false,
+        "productCard": "neon",
+        "layoutType": "modern"
+      },
+      "icon": "Gadgets"
+    }
+  },
+  {
+    "id": 202,
+    "name": "Filters",
+    "slug": "router",
+    "language": "en",
+    "translated_languages": ["en"],
+    "parent": null,
+    "children": [],
+    "products_count": null,
+    "details": null,
+    "image": {
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2228/conversions/Router-thumbnail.jpg",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2228/Router.png",
+      "id": 2231
+    },
+    "icon": "Router",
+    "type_id": 9,
+    "type": {
+      "id": 9,
+      "name": "Gadget",
+      "language": "en",
+      "translated_languages": ["en"],
+      "slug": "gadget",
+      "banners": [
+        {
+          "id": 78,
+          "title": "Gadget",
+          "type_id": 9,
+          "description": "Add your banner image with title and description from here. Dimension of the banner should be 1920 x 1080 px for full screen banner and 1500 x 450 px for small banner",
+          "image": {
+            "id": 2149,
+            "thumbnail": "https://i.ibb.co/M1B6XCj/Eco-Parts.png",
+            "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2146/Gadget-banners.png"
+          }
+        }
+      ],
+      "promotional_sliders": [],
+      "settings": {
+        "isHome": false,
+        "productCard": "neon",
+        "layoutType": "modern"
+      },
+      "icon": "Gadgets"
+    }
+  },
+  {
+    "id": 203,
+    "name": "Exhaust System",
+    "slug": "smart-watch",
+    "language": "en",
+    "translated_languages": ["en"],
+    "parent": null,
+    "children": [],
+    "products_count": null,
+    "details": null,
+    "image": {
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2160/conversions/Smart-watch-thumbnail.jpg",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2160/Smart-watch.jpg",
+      "id": 2163
+    },
+    "icon": "SmartWatch",
+    "type_id": 9,
+    "type": {
+      "id": 9,
+      "name": "Gadget",
+      "language": "en",
+      "translated_languages": ["en"],
+      "slug": "gadget",
+      "banners": [
+        {
+          "id": 78,
+          "title": "Gadget",
+          "type_id": 9,
+          "description": "Add your banner image with title and description from here. Dimension of the banner should be 1920 x 1080 px for full screen banner and 1500 x 450 px for small banner",
+          "image": {
+            "id": 2149,
+            "thumbnail": "https://i.ibb.co/M1B6XCj/Eco-Parts.png",
+            "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2146/Gadget-banners.png"
+          }
+        }
+      ],
+      "promotional_sliders": [],
+      "settings": {
+        "isHome": false,
+        "productCard": "neon",
+        "layoutType": "modern"
+      },
+      "icon": "Gadgets"
+    }
+  },
+  {
+    "id": 204,
+    "name": "Wipers",
+    "slug": "sound-box",
+    "language": "en",
+    "translated_languages": ["en"],
+    "parent": null,
+    "children": [],
+    "products_count": null,
+    "details": null,
+    "image": {
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2158/conversions/Sound-Box-thumbnail.jpg",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2158/Sound-Box.jpg",
+      "id": 2161
+    },
+    "icon": "SoundBox",
+    "type_id": 9,
+    "type": {
+      "id": 9,
+      "name": "Gadget",
+      "language": "en",
+      "translated_languages": ["en"],
+      "slug": "gadget",
+      "banners": [
+        {
+          "id": 78,
+          "title": "Gadget",
+          "type_id": 9,
+          "description": "Add your banner image with title and description from here. Dimension of the banner should be 1920 x 1080 px for full screen banner and 1500 x 450 px for small banner",
+          "image": {
+            "id": 2149,
+            "thumbnail": "https://i.ibb.co/M1B6XCj/Eco-Parts.png",
+            "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2146/Gadget-banners.png"
+          }
+        }
+      ],
+      "promotional_sliders": [],
+      "settings": {
+        "isHome": false,
+        "productCard": "neon",
+        "layoutType": "modern"
+      },
+      "icon": "Gadgets"
+    }
+  }
+]
